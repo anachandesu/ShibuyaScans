@@ -9,7 +9,11 @@
       "title": "",
       "volume": "1",
       "groups": {
-        "Shibuya Scans": "/proxy/api/imgur/chapter//"
+        "Shibuya Scans": [
+                    "https://drive.google.com/uc?id=",
+                    "https://drive.google.com/uc?id=",
+                    "https://drive.google.com/uc?id="
+                ]
       },
       "last_updated": "1622746800"
     }
