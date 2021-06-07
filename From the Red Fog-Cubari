@@ -6,12 +6,12 @@
   "cover": "https://i.imgur.com/rjyL2cp.png",
   "chapters": {
     "4": {
-      "title": "",
+      "title": "Desconforto",
       "volume": "1",
       "groups": {
-        "Shibuya Scans": "/proxy/api/imgur/chapter//"
+        "Shibuya Scans": "/proxy/api/imgur/chapter/4lAfBuL/"
       },
-      "last_updated": ""
+      "last_updated": "1622775600"
     }
   }
 }
