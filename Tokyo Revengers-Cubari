@@ -1,0 +1,17 @@
+{
+  "title": "Tokyo Revengers",
+  "description": " \nDiscord da ShibuyaScans: https://discord.gg/ZqyX4qhNgz",
+  "artist": "Ken Wakui",
+  "author": "Ken Wakui",
+  "cover": "https://i.imgur.com/ycb8huQ.png",
+  "chapters": {
+    "188": {
+      "title": "Tempo Tempestuoso",
+      "volume": "Cap188",
+      "groups": {
+        "Shibuya Scans": "/proxy/api/imgur/chapter/pRyokL5/"
+      },
+      "last_updated": "1622746800"
+    }
+  }
+}
